@@ -11,6 +11,6 @@ Though my most recent experience have been doing backend work in Ruby, Scala and
 
 ### Contact me
 
-[dahliabock@gmail.com](mailto:dahliabock@gmail.com)
-[Flickr](https://www.flickr.com/dahliabock)
-[Instagram](https://www.instagram.com/dlbock)
+[dahliabock@gmail.com](mailto:dahliabock@gmail.com)  
+[Flickr](https://www.flickr.com/dahliabock)  
+[Instagram](https://www.instagram.com/dlbock)  
