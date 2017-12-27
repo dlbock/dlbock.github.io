@@ -1,6 +1,11 @@
 ---
-layout: post
 title: Service outages and good practices around handling them
+excerpt: "My learnings on what to do when there's a service outage"
+share: false
+tags:
+  - outages
+  - postmortem
+  - microservices
 ---
 
 As humans, we are inherently flawed, and therefore the software we write is also inherently flawed, no matter how careful we are, or how many tests we write.
