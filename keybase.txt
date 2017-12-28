@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/dlbock
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dlbock.github.io
+  * I am dlbock (https://keybase.io/dlbock) on keybase.
+  * I have a public key ASD58nwNarGk8OTf9-MMgjIqpOvY0aqPpELOOKbFijp9EQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f9f27c0d6ab1a4f0e4dff7e30c82322aa4ebd8d1aa8fa442ce38a6c58a3a7d110a",
+      "host": "keybase.io",
+      "kid": "0120f9f27c0d6ab1a4f0e4dff7e30c82322aa4ebd8d1aa8fa442ce38a6c58a3a7d110a",
+      "uid": "dc709f1be8b8318ddba83d83f2c30c19",
+      "username": "dlbock"
+    },
+    "merkle_root": {
+      "ctime": 1514477437,
+      "hash": "e50fd84e265400610b8636cce1f578ea405fec46847283d51d0ba2eea59d7b5fc976d43a2306af9bc44f8cbcb5f7bfa8fd98c266b1b25f5fcdcfa98c306be3b0",
+      "hash_meta": "51f8e50e6036d65a76b0ac4b6374dbaaf05b4a44570d2c0fd63846911cb9a974",
+      "seqno": 1864725
+    },
+    "service": {
+      "hostname": "dlbock.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514477530,
+  "expire_in": 504576000,
+  "prev": "acbc6cc795aa8dacf29a6b64d2f42d8a7c04274706e57b77d8f9eb785648c91e",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+fJ8DWqxpPDk3/fjDIIyKqTr2NGqj6RCzjimxYo6fREKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjlmMjdjMGQ2YWIxYTRmMGU0ZGZmN2UzMGM4MjMyMmFhNGViZDhkMWFhOGZhNDQyY2UzOGE2YzU4YTNhN2QxMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjlmMjdjMGQ2YWIxYTRmMGU0ZGZmN2UzMGM4MjMyMmFhNGViZDhkMWFhOGZhNDQyY2UzOGE2YzU4YTNhN2QxMTBhIiwidWlkIjoiZGM3MDlmMWJlOGI4MzE4ZGRiYTgzZDgzZjJjMzBjMTkiLCJ1c2VybmFtZSI6ImRsYm9jayJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNDQ3NzQzNywiaGFzaCI6ImU1MGZkODRlMjY1NDAwNjEwYjg2MzZjY2UxZjU3OGVhNDA1ZmVjNDY4NDcyODNkNTFkMGJhMmVlYTU5ZDdiNWZjOTc2ZDQzYTIzMDZhZjliYzQ0ZjhjYmNiNWY3YmZhOGZkOThjMjY2YjFiMjVmNWZjZGNmYTk4YzMwNmJlM2IwIiwiaGFzaF9tZXRhIjoiNTFmOGU1MGU2MDM2ZDY1YTc2YjBhYzRiNjM3NGRiYWFmMDViNGE0NDU3MGQyYzBmZDYzODQ2OTExY2I5YTk3NCIsInNlcW5vIjoxODY0NzI1fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRsYm9jay5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNDQ3NzUzMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJhY2JjNmNjNzk1YWE4ZGFjZjI5YTZiNjRkMmY0MmQ4YTdjMDQyNzQ3MDZlNTdiNzdkOGY5ZWI3ODU2NDhjOTFlIiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLY04JC784GSNTA866LHEKC5qYbwYjwdTtOSOuNVbhbatnUQIPn0Qa+7JC1dsBw/PFxtJSSMgh8Dmpdy/Vs5rg2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD1uHzQNFfT3nBNuJOIZZs2wSfussyvJ3mHf0IMIURiGqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dlbock
+
+==================================================================
