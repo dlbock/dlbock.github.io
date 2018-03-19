@@ -44,3 +44,10 @@ I had the privilege of attending The Lead Developer Conference held for the firs
   - It might be cheap to store data, but is it cheap to maintain, protect and convert to new formats in the future?
   - Old data is not neutral, it affects current data.
   - "Collect carefully. Ingest mindfully. Delete boldly."
+
+
+* **Nickolas Means: Who Destroyed Three Mile Island?**
+
+  - When something bad happens (e.g. we experience an outage of our services, we miss the deadline on a very important project, someone miscalculates a formula that causes us to collect the wrong amount of money from our customers, etc), it's always too easy to find someone to blame and make them pay for their mistakes. In reality, if we believe that we have hired the right people with the right values to get the job done, the root cause is never that simple.
+  - Nickolas talks about Hindsight Bias, also known as the knew-it-all-along effect, is the inclination, after an event has occurred, given the knowledge of everything that took place during that event, to see it as having been predictable all along. He also talks about Outcome Bias, which is when we evaluate the quality of a decision, when the outcome of that decision is already known.
+  - It's very important when something bad happens that we focus less on the human(s) that made the mistake, but rather the systemic flaws that allowed the human to make the mistake. Seek forward accountability, and always find the second story that's hidden under what's obvious.
