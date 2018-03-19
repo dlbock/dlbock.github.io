@@ -7,7 +7,7 @@ tags:
   - leadership
 ---
 
-A few questions have come up for me about technical leadership in the last few years: What makes a good technical leader? How does one stay competent technically while being an effective leader? How do we build more effective teams in the age where people are constantly pulled in multiple directions but still expected to focus and deliver?
+What makes a good technical leader? How does one stay competent technically while being an effective leader? How do we build more effective teams in the age where people are constantly pulled in multiple directions but still expected to focus and deliver?
 
 I had the privilege of attending The Lead Developer Conference held for the first time in Austin this year. There were a lot of good talks but here is a snippet of the ones that stuck with me.
 
