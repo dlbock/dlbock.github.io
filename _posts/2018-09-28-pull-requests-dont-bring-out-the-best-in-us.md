@@ -3,6 +3,7 @@ title: Pull Requests And Why They Don't Bring Out The Best In Us
 share: false
 tags:
   - rant
+  - software engineering
 ---
 
 The pull request (PR) system has existed on GitHub (and other similar products) from day one, and has been revamped a few times to allow for more options of collaboration around (all types of) code. As evidenced by [this GitHub blog post](https://blog.github.com/2010-08-31-pull-requests-2-0/) from 2010.
