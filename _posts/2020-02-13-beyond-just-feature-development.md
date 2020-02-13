@@ -26,4 +26,4 @@ Software engineering isn't just about pushing out features, IMHO. There is so mu
   - How do I know if they are even being used in production?
   - How do I get notified when things go wrong in production?
 
-I'll probably come back and update this list over time as I learn about other things that I should care about.
+I'll update this list over time as I learn about other things that I should ~~worry~~ care about.
