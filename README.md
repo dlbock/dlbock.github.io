@@ -1,6 +1,6 @@
 # dlbock.github.io
 
-The source code for [https://dlbock.github.io](https://dlbock.github.io) Powered by [Jekyll Now](https://github.com/barryclark/jekyll-now) & [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
+The source code for [https://dlbock.github.io](https://dlbock.github.io) is powered by [Jekyll Now](https://github.com/barryclark/jekyll-now) & [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
 
 ## License
 
