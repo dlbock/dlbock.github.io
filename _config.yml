@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "A scratchpad of sorts"
 title_separator          : "-"
 name                     : &name "Dahlia Bock"
-description              : &description "Software Engineer. I like to break things."
+description              : &description "Software Engineer. I like to break things. Then try to fix them."
 url                      : https://dlbock.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dlbock/dlbock.github.io"
