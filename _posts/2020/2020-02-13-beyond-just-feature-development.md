@@ -5,7 +5,7 @@ tags:
   - software engineering
 ---
 
-Software engineering isn't just about pushing out features, IMHO. There is so much that needs to happen between when an engineer is "done" with a feature and when it is actually available to be used by customers. I find that some engineers tend to glaze over these things with the excuse that it is not their job to ensure the software they write gets into their customers hands and works as intended. I disagree. Here are some of the questions I ~~worry about~~ ask myself when writing software.
+Software engineering isn't just about pushing out features, IMHO. There is so much that needs to happen between the beginning of a feature and when it is actually available to be used by customers. I find that some engineers tend to glaze over these things with the excuse that it is not their job to ensure the software they write gets into their customers hands and works as intended. I disagree. Here are some of the questions I ~~worry about~~ ask myself when writing software.
 
 ### Testing
   - How do I create automatic test harnesses for these features?
@@ -25,5 +25,10 @@ Software engineering isn't just about pushing out features, IMHO. There is so mu
   - How do I know how these features are performing in production?
   - How do I know if they are even being used in production?
   - How do I get notified when things go wrong in production?
+
+### Communication
+  - Is the feature I'm working on mostly self-contained within my team? Do I need to reach out to another team to collaborate or can I work independently?
+  - Is there anyone else that we need to communicate with about this feature?
+  - Do I need to write up documentation about this feature?
 
 I'll update this list over time as I learn about other things that I should ~~worry~~ care about.
