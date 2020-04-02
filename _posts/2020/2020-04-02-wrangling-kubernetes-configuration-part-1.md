@@ -98,5 +98,3 @@ What I like about using a `jsonnet` template in this scenario:
 - It's readable and the differences are encoded in the same location as the contents of the file itself so there isn't some external script that modifies the file after the fact
 - It's deterministic and not system dependent
 - And of course, no duplication necessary
-
-Next time, we'll take a look at another (hopefully slightly more complex) example of Kubernetes configuration wrangling.
