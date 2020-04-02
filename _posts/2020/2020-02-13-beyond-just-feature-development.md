@@ -1,6 +1,7 @@
 ---
 title: Beyond Just Feature Development
-share: true
+share: false
+comments: true
 tags:
   - software engineering
 ---
