@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Wrangling Kubernetes configuration (Part 1)
 share: true
+comments: true
 tags:
   - helm charts
   - jsonnet

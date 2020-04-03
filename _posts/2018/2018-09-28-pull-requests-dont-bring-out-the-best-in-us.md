@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Pull Requests And Why They Don't Bring Out The Best In Us
 share: false
+comments: true
 tags:
   - rant
   - software engineering

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Beyond Just Feature Development
 share: false
 comments: true

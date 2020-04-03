@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Service outages and good practices around handling them
 excerpt: "My learnings on what to do when there's a service outage"
 share: false
+comments: true
 tags:
   - outages
   - postmortem

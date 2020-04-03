@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Back up and blogging!
 excerpt: "After a multiple year hiatus, I've resurrected my blog and hope to be blogging again."
 share: false

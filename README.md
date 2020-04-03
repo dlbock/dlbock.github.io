@@ -1,14 +1,14 @@
 # dlbock.github.io
 
-The source code for [https://dlbock.github.io](https://dlbock.github.io) is powered by [Jekyll Now](https://github.com/barryclark/jekyll-now) & [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
+The source code for [https://dlbock.github.io](https://dlbock.github.io) is powered by [Jekyll](https://github.com/jekyll/jekyll).
 
 ## License
 
 The following directories and their contents are **&copy; Dahlia Bock**. You may not reuse anything therein without my permission:
 
 ```
+about.md
 _posts/
-_pages/
 assets/images/
 ```
 

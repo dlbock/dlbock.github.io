@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: single
+layout: page
 permalink: /about/
 ---
 
@@ -17,3 +17,4 @@ I'm currently at [Instana](https://www.instana.com/) and based in Austin, TX.
 More information can be found on my [LinkedIn profile](https://www.linkedin.com/in/dahliabock/).
 
 My opinions are my own and do not reflect the views of my employer.
+
