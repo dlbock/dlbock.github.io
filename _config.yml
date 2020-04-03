@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A scratchpad of sorts
+author: Dahlia Bock
 email: dlbock@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I like to break things. Then try to fix them.
