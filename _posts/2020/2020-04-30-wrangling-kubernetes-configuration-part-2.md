@@ -7,7 +7,7 @@ tags:
   - kubernetes configuration management
 ---
 
-Following up on my [first post]({% post_url /2020/2020-04-02-wrangling-kubernetes-configuration-part-1}), where we looked at a simple example of using a Jsonnet template to determine what kind of icon path to use for a `Chart.yaml` file, I'd like to take a look at a less simple, but possibly still contrived, example of utilizing Jsonnet to dynamically reconstruct YAML.
+Following up on my [first post]({% post_url /2020/2020-04-02-wrangling-kubernetes-configuration-part-1 %}), where we looked at a simple example of using a Jsonnet template to determine what kind of icon path to use for a `Chart.yaml` file, I'd like to take a look at a less simple, but possibly still contrived, example of utilizing Jsonnet to dynamically reconstruct YAML.
 
 Consider the following `my-application.yaml`:
 
