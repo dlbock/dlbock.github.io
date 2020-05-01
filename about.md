@@ -14,7 +14,7 @@ I also spent some time at [SoundCloud](https://www.soundcloud.com) (2014-2016) w
 
 I'm currently at [Instana](https://www.instana.com/) and based in Austin, TX.
 
-More information can be found on my [LinkedIn profile](https://www.linkedin.com/in/dahliabock/).
+More information can be found on my [LinkedIn profile](https://www.linkedin.com/in/dahliabock/). I have also included my resume [here](/resume/).
 
 My opinions are my own and do not reflect the views of my employer.
 
