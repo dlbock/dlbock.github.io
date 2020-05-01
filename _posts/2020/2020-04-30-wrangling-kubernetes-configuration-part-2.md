@@ -29,7 +29,7 @@ metadata:
   namespace: my-application-namespace
 ```
 
-However, I'd like to be able to identify which release of `my-application` is being run by adding an additional label to each resource type:
+I'd like to be able to identify which release of `my-application` is being run by adding an additional label to each resource type:
 
 ```yaml
   labels:
