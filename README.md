@@ -8,8 +8,9 @@ The following directories and their contents are **&copy; Dahlia Bock**. You may
 
 ```
 about.md
+resume.md
 _posts/
-assets/images/
+assets/*
 ```
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
