@@ -3,6 +3,7 @@ title: My Resume
 layout: page
 permalink: /resume/
 ---
+[Download PDF]({{ site.url }}/assets/dahlia_bock_current.pdf)
 
 ## Summary
 
