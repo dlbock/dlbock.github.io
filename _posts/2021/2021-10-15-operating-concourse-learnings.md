@@ -33,6 +33,6 @@ There is now an option to [chain more than one container placement strategies to
 
 ## Set an acceptable termination grace period
 
-When workers are restarted/deleted (either manually or by Kubernetes), we can configure the `terminationGracePeriodSeconds` value to provide an upper limit to how long Kubernetes will wait for Concourse to gracefully [retire](https://concourse-ci.org/internals.html#RETIRING-table) the worker before forcefully terminating the container.
+When [workers are restarted/deleted](https://github.com/concourse/concourse-chart#restarting-workers) (either manually or by Kubernetes), we can configure the `terminationGracePeriodSeconds` value to provide an upper limit to how long Kubernetes will wait for Concourse to gracefully [retire](https://concourse-ci.org/internals.html#RETIRING-table) the worker before forcefully terminating the container.
 
 This is a tricky number to set as it depends on the builds that are running in your cluster and the average/max time a build takes to complete, and how comfortable you are with the possibility of workers being killed before its tasks are drained completely. This number is most important in the event that you implement worker autoscaling as you probably want Kubernetes to scale down workers only after they've been retired properly.
