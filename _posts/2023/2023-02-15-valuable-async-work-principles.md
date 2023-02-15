@@ -59,7 +59,7 @@ A few things on documentation that I think is important:
 - Clearly differentiate between point-in-time documents and "living" documents so that a reader can tell whether something _is_ or _should be_ outdated or not.
 - Keep root-level pages under control. If you use Confluence, the root-level pages are the ones you see on the left-hand navigation when you open a Confluence Space. Too many root-level pages will cause a lot of confusion, especially if they're not categorized in a way to help with navigation.
 - Ensure there is a single source of truth. If documentation lives in multiple sources (e.g. Confluence, Google Docs, Notion, etc) and not linked back to a single source, this will cause _a lot_ of friction and confusion and make things impossible to find.
-- Whatever you do, _do not_ use Slack as an information repository. It is a real-time communication tool, not an information repository.
+- Whatever you do, _do not_ use Slack as an information repository. It is a real-time communication tool, and "real-time" is the opposite of "asynchronous".
 
 Essentially, you want your documentation to be easy to add to, easy to modify, easy to find, easy to navigate. Properly curated and organized documentation can be life-savers in certain urgent situations, help team members gain the context they need and foster an environment where everyone is empowered and equipped to do their job.
 
