@@ -26,7 +26,7 @@ _"Async work, collaboration, and communication simply means that employees work 
 
 ## What are these principles you speak of?
 
-Note: This is not an exhaustive or perfect list. These are the principles that I've come to learn are/can be valuable in any work setting. I had to learn the hard way when I was at a company with a distributed workforce across 3 main timezone groups: North/Central/South America, EMEA (Europe, Middle East & Africa) and APAC (Asia Pacific). My team, which was based in the Americas, was essentially brand new and had to get up to speed quickly to start delivering on some initiatives. We were in many situations where we had to reverse engineer context, or perform an "archeological dig" for context and build a library of knowledge as we went.
+**Note**: This is not an exhaustive or perfect list. I've come to learn that these principles are & can be valuable in any work setting. I had to learn the hard way when I was at a company with a distributed workforce across 3 main timezone groups: North/Central/South America, EMEA (Europe, Middle East & Africa) and APAC (Asia Pacific). My team, which was based in the Americas, was essentially brand new and had to get up to speed quickly to start delivering on some initiatives. We were in many situations when there was no one else online that could help us. So we had to reverse engineer context, or perform an "archeological dig" for context and build a library of knowledge as we went.
 
 ### Assume low-context by default
 
