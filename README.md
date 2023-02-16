@@ -17,5 +17,8 @@ All other directories and files are MIT Licensed. Feel free to use the HTML and 
 ## GitHub Pages
 
 To update `github-pages`
-    $ bundle install
-    $ bundle update github-pages
+
+```
+$ bundle install
+$ bundle update github-pages
+```
