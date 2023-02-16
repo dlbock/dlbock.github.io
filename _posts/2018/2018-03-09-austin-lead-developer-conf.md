@@ -3,7 +3,6 @@ layout: post
 title: Attending Lead Developer Austin 2018
 excerpt: "My thoughts and learnings from attending the conference"
 share: false
-comments: true
 tags:
   - conferences
   - leadership

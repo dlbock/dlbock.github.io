@@ -40,7 +40,7 @@ defaults:
       type: "posts"
     values:
       share: twitter linkedin
-      comments: true
+      comments: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
