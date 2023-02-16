@@ -60,5 +60,6 @@ utterance:
   # Make sure the [utterances app](https://github.com/apps/utterances) is installed on the repo, otherwise users will not be able to post comments.
   # If your repo is a fork, navigate to it's settings tab and confirm the issues feature is turned on.
   repo: dlbock/dlbock.github.io # Choose the repository utterances will connect to. eg: owner/repo
-  issue-term: pathname # Choose the mapping between blog posts and GitHub issues.
+  issue-term: title # Choose the mapping between blog posts and GitHub issues.
   theme: github-light # Choose an Utterances theme that matches your blog. 'github-light' is default
+  label:  blog-comments # Choose the label that will be assigned to issues created by Utterances.
