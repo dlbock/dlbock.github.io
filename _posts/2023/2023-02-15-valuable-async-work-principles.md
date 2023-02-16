@@ -34,7 +34,7 @@ We have to remember that all of us move in and out of contexts constantly; new h
 
 Some examples in reality:
 - Business context of new projects/initiatives should be documented in written format. New folks who join a project/initiative midway can read about it after the fact and get up to speed. This democratizes context and hopefully prevents the cycle of people repeating themselves over and over in meetings, not to mention the high probability of knowledge leaks because certain people have context that others don't.
-- When writing any documentation (e.g. incident playbook, how-tos, onboarding docs), assume your audience has zero context and spell everything out.
+- When writing any content (e.g. incident playbook, how-tos, onboarding docs, project contexts), assume your audience has zero context and spell everything out.
 - Meetings should include information on why it's being held and an agenda so the audience knows what to expect.
 
 ### Schedule meetings with focus & intention
@@ -51,17 +51,19 @@ Some examples in reality:
 - Avoid sending out next day early morning meeting requests/invites late in the previous day.
 - In situations when an ad-hoc discussion happens, we should create a written record of significant decisions/outcomes/next steps and the necessary context that led up to it.
 
-### Curate your documentation
+### Curate your content
 
-It should not be a surprise that remote and async work settings rely heavily on written communication. However, how you write, what you write, and how you organize what you write will influence whether or not it will be usable after you write it. Curation of information is not an easy thing to do successfully, which is why you hear people say things like "Documentation becomes stale as soon as you write it".
+It should not be a surprise that remote and async work settings rely heavily on written communication. However, how you write, what you write, and how you organize what you write will influence whether or not it will be usable after you write it. Curation of content is not an easy thing to do successfully, which is why you hear people say things like "Documentation becomes stale as soon as you write it".
 
-A few things on documentation that I think is important:
-- Clearly differentiate between point-in-time documents and "living" documents so that a reader can tell whether something _is_ or _should be_ outdated or not.
+A few things on content that I think is important:
+- Documentation is a subset of content in general. How you treat documentation should be how you treat the content you generate.
+- Clearly differentiate between point-in-time documents and "living" documents so that a reader can tell whether something _is_ or _should be_ outdated or not. Consider creating an archive for content that is no longer current but still valuable in providing context.
 - Keep root-level pages under control. If you use Confluence, the root-level pages are the ones you see on the left-hand navigation when you open a Confluence Space. Too many root-level pages will cause a lot of confusion, especially if they're not categorized in a way to help with navigation.
-- Ensure there is a single source of truth. If documentation lives in multiple sources (e.g. Confluence, Google Docs, Notion, etc) and not linked back to a single source, this will cause _a lot_ of friction and confusion and make things impossible to find.
+- Ensure there is a single source of truth. If content lives in multiple sources (e.g. Confluence, Google Docs, Notion, etc) and not linked back to a single source, this will cause _a lot_ of friction and confusion and make things impossible to find.
+- Consider creating well-known spaces for types of content that you create new versions of on a frequent cadence, e.g. monthly All-Hands recordings, RFCs (Request For Comments), team discussion notes, demos, etc. Use templates to make the creation of new versions easier and keep the format consistent. Having well-known spaces for these types of content will hopefully make them easier for folks to find after the fact.
 - Whatever you do, _do not_ use Slack as an information repository. It is a real-time communication tool, and "real-time" is the opposite of "asynchronous".
 
-Essentially, you want your documentation to be easy to add to, easy to modify, easy to find, easy to navigate. Properly curated and organized documentation can be life-savers in certain urgent situations, help team members gain the context they need and foster an environment where everyone is empowered and equipped to do their job.
+Essentially, you want your content to be easy to add to, easy to modify, easy to find, easy to navigate. Properly curated and organized content can be life-savers in certain urgent situations, level the playing ground for all team members by helping them gain the context they need and foster an environment where everyone is empowered and equipped to do their job.
 
 ## Some resources on async work that helped me
 
