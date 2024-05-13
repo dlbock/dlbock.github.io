@@ -30,7 +30,7 @@ I will share the resources I’ve used and how they’ve helped me so far:
 - Other people whose writing I enjoy and have learned/are continuously learning a lot from:
   - [Charity Majors](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
   - [Emily Nakashima](https://honkathon.com/2023-07-11-becoming-a-vp-engineering-part-1/)
-  - [Lara Hogan](https://larahogan.me/blog/find-a-buddy-team-of-one/
+  - [Lara Hogan](https://larahogan.me/blog/find-a-buddy-team-of-one/)
   - [Camille Fournier](https://www.elidedbranches.com/2023/07/the-next-larger-context.html)
   - [Pat Kua](https://www.patkua.com/about/) and his free [LevelUp newsletter](https://levelup.patkua.com/)
 
