@@ -4,14 +4,16 @@ The source code for [https://dlbock.github.io](https://dlbock.github.io) is powe
 
 ## Running locally
 
-This project uses Ruby 2.7.8 (specified in `.ruby-version`) and Bundler 2.2.33. With [rbenv](https://github.com/rbenv/rbenv) installed:
+This project uses Ruby 3.3.6 (specified in `.ruby-version`) and Bundler 4.0.23. With [rbenv](https://github.com/rbenv/rbenv) installed:
 
 ```sh
-rbenv install 2.7.8 # if Ruby 2.7.8 is not already installed
-gem install bundler -v 2.2.33
-bundle install
+rbenv install 3.3.6 # if Ruby 3.3.6 is not already installed
+gem install bundler -v 4.0.23
+CFLAGS=-Wno-default-const-init-field-unsafe bundle install
 bundle exec jekyll serve
 ```
+
+The `CFLAGS` setting works around an Apple Clang warning treated as an error while building the locked Nokogiri version. The project pins Logger 1.5 and includes WEBrick for compatibility with its GitHub Pages Jekyll version on newer Ruby releases.
 
 Then open <http://127.0.0.1:4000> in your browser.
 
